@@ -1,8 +1,6 @@
 # colab_github
 Código no Google Colab para configurar uma forma conveniente de trabalhar com Git e GitHub, tornando mais fácil gerenciar seus repositórios e projetos diretamente desde o notebook do google.
 
-Este notebook oferece um conjunto de scripts e configurações projetados para simplificar a colaboração com o Git e o GitHub diretamente do ambiente do Google Colab. Facilitamos a gestão dos seus repositórios e projetos, permitindo que você configure e use essas ferramentas poderosas de controle de versão e colaboração sem sair do seu notebook do Google. Simplifique seu fluxo de trabalho de desenvolvimento e torne a colaboração com o GitHub mais conveniente com estes recursos.
-
 Este repositório abriga um conjunto de scripts e configurações cuidadosamente desenvolvidos para simplificar a administração de repositórios e projetos no GitHub, diretamente do ambiente do Google. Com um foco especial em estabelecer conexões SSH seguras, permitindo também aos usuários mais entendidos em poucos ajustes as modificacoes que permitem trocar entre conexões públicas ou autenticação por token. Em resumo ela proporciona uma maneira rapida, ordenada e segura de colaborar e controlar versões de projetos, tudo isso a partir do seu notebook no Google.
 
 Resumo das Funcionalidades:
