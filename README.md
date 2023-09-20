@@ -1,5 +1,5 @@
 # colab_github
-Configurando Git e GitHub usando como IDE o notebook do Google Colab
+Configurando Git e GitHub no notebook de Google Colab.
 
 Este código no Google Colab foi criado para configurar uma maneira rápida de trabalhar com o Git e o GitHub, tornando mais fácil gerenciar seus repositórios e projetos a partir do ambiente do notebook Google.
 
