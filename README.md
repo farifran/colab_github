@@ -5,13 +5,12 @@ Este código no Google Colab foi criado para configurar uma maneira rápida de t
 
 Este repositório contém um conjunto de scripts e configurações cuidadosamente desenvolvidos para simplificar a administração de repositórios e projetos no GitHub, diretamente do ambiente do Google. Ele se concentra principalmente em estabelecer conexões SSH seguras, permitindo também aos usuários mais experientes realizar ajustes para alternar entre conexões públicas ou autenticação por token. Em resumo, oferece uma maneira rápida, organizada e segura de colaborar e controlar versões de projetos, tudo isso a partir do seu notebook no Google.
 
-Resumo das Funcionalidades:
-Este conjunto de scripts oferece as seguintes funcionalidades:
+**Resumo das Funcionalidades:**
 
-1. SSH Seguro: O foco principal está na configuração de conexões SSH seguras, garantindo que suas interações com o GitHub sejam protegidas e confiáveis.
+- **SSH Seguro:** O foco principal está na configuração de conexões SSH seguras, garantindo que suas interações com o GitHub sejam protegidas e confiáveis.
 
-2. Flexibilidade de Autenticação: Você pode escolher entre conexões públicas ou autenticação por token, adaptando-se às suas preferências e necessidades.
+- **Flexibilidade de Autenticação:** Você pode escolher entre conexões públicas ou autenticação por token, adaptando-se às suas preferências e necessidades.
 
-3. Gestão de Projetos: Este repositório fornece ferramentas para tornar a gestão de repositórios e projetos no GitHub mais fácil e eficiente, diretamente do seu ambiente de notebook no Google. Aproveite essa solução conveniente e personalizável para aprimorar sua experiência de desenvolvimento e colaboração no GitHub a partir do Google.
+- **Gestão de Projetos:** Este repositório fornece ferramentas para tornar a gestão de repositórios e projetos no GitHub mais fácil e eficiente, diretamente do seu ambiente de notebook no Google. Aproveite essa solução conveniente e personalizável para aprimorar sua experiência de desenvolvimento e colaboração no GitHub a partir do Google.
 
-4. Configuração Automática: O código cria automaticamente as pastas e os arquivos necessários para uma execução bem-sucedida. No entanto, você tem total liberdade para manter ou modificar a localização e os nomes desses elementos, de acordo com suas preferências de organização.
+- **Configuração Automática:** O código cria automaticamente as pastas e os arquivos necessários para uma execução bem-sucedida. No entanto, você tem total liberdade para manter ou modificar a localização e os nomes desses elementos, de acordo com suas preferências de organização.
