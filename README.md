@@ -6,8 +6,7 @@ Para evitar o desperdício de tempo na configuração repetida a cada nova sess�
 atalho para carregar suas configurações rapidamente. Isso envolve a geração de chaves SSH, a
 definição de variáveis de ambiente e a instalação de bibliotecas personalizadas. Dessa forma,
 você pode começar a trabalhar com suas configurações padrão sempre que iniciar uma nova
-sessão, aumentando significativamente a sua eficiência. Por isso criei um repositório contendo
-um conjunto de scripts e configurações cuidadosamente elaborados para simplificar essa
+sessão, aumentando significativamente a sua eficiência. Por isso criei este codigo cuidadosamente elaborados para simplificar essa
 configuração no notebook do Colab. Ele concentra-se principalmente em estabelecer conexão
 SSH segura, permitindo também que usuários mais experientes façam ajustes para alternar entre
 conexões públicas ou autenticação por token. Além disso, configura o Git e fornece um caminho
