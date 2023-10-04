@@ -8,10 +8,7 @@ Este repositório contém um conjunto de scripts e configurações cuidadosament
 
 **Resumo das Funcionalidades:**
 
-- **SSH Seguro:** O foco principal está na configuração de conexões SSH seguras, garantindo que suas interações com o GitHub sejam protegidas e confiáveis.
-
-- **Flexibilidade de Autenticação:** Você pode escolher entre conexões públicas ou autenticação por token, adaptando-se às suas preferências e necessidades.
-
-- **Gestão de Projetos:** Este repositório fornece ferramentas para tornar a gestão de repositórios e projetos no GitHub mais fácil e eficiente, diretamente do seu ambiente de notebook no Google. Aproveite essa solução conveniente e personalizável para aprimorar sua experiência de desenvolvimento e colaboração no GitHub a partir do Google.
-
-- **Configuração Automática:** O código cria automaticamente as pastas e os arquivos necessários para uma execução bem-sucedida. No entanto, você tem total liberdade para manter ou modificar a localização e os nomes desses elementos, de acordo com suas preferências de organização.
+- [x]  **SSH Seguro:** O foco principal está na configuração de conexões SSH seguras, garantindo que suas interações com o GitHub sejam protegidas e confiáveis.
+- [x]  **Flexibilidade de Autenticação:** Você pode escolher entre conexões públicas ou autenticação por token, adaptando-se às suas preferências e necessidades.
+- [x]  **Gestão de Projetos:** Este repositório fornece ferramentas para tornar a gestão de repositórios e projetos no GitHub mais fácil e eficiente, diretamente do seu ambiente de notebook no Google. Aproveite essa solução conveniente e personalizável para aprimorar sua experiência de desenvolvimento e colaboração no GitHub a partir do Google.
+- [x]  **Configuração Automática:** O código cria automaticamente as pastas e os arquivos necessários para uma execução bem-sucedida. No entanto, você tem total liberdade para manter ou modificar a localização e os nomes desses elementos, de acordo com suas preferências de organização.
