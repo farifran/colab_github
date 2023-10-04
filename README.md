@@ -1,6 +1,6 @@
 # Configurando Git e GitHub no notebook de Google Colab.
 
->Este código no Google Colab foi criado para configurar uma maneira rápida de trabalhar com o Git e o GitHub, tornando mais fácil gerenciar seus repositórios e projetos a partir do ambiente do notebook Google.
+>Este código nos permite simplificar a configuraçao do Git e o GitHub em cada nova sessão, tornando mais fácil gerenciar os repositórios e projetos desde o notebook do Google Colab.
 
 Para evitar o desperdício de tempo na configuração repetida a cada nova sessão, é crucial ter um
 atalho para carregar suas configurações rapidamente. Isso envolve a geração de chaves SSH, a
@@ -15,6 +15,9 @@ para quem deseja adicionar novas alterações, garantindo que o notebook do Cola
 personalizado de maneira rápida e fácil.
 
 ![Imagem dasoluçao](https://drive.google.com/uc?export=view&amp;id=1C1GOZHe-IjMvnFvjUlMexMD-ZU-G-E-J)
+
+### Generate an SSH key using the Ed25519 algorithm with your email as a comment.
+
 
 **Resumo das Funcionalidades:**
 
