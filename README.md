@@ -13,7 +13,7 @@ conexões públicas ou autenticação por token. Além disso, configura o Git e 
 para quem deseja adicionar novas alterações, garantindo que o notebook do Colab fique
 personalizado de maneira rápida e fácil.
 
-![Imagem dasoluçao](https://drive.google.com/uc?export=view&amp;id=1C1GOZHe-IjMvnFvjUlMexMD-ZU-G-E-J)
+![Imagem dasoluçao](https://drive.google.com/uc?id=1C1GOZHe-IjMvnFvjUlMexMD-ZU-G-E-J)
 
 ## **Resumo das Funcionalidades:**
 
